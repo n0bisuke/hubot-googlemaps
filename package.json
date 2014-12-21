@@ -1,0 +1,19 @@
+{
+  "name": "hubot-googlemaps",
+  "version": "0.0.4",
+  "description": "google maps api for hubot scripts",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "GoogleMaps"
+  ],
+  "author": "n0bisuke",
+  "license": "MIT",
+  "dependencies": {
+    "googlemaps": "^0.1.20"
+  }
+}
