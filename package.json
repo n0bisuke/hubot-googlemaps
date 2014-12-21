@@ -1,6 +1,6 @@
 {
   "name": "hubot-googlemaps",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "google maps api for hubot scripts",
   "main": "index.coffee",
   "scripts": {
@@ -11,6 +11,10 @@
     "maps",
     "GoogleMaps"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:n0bisuke/hubot-googlemaps.git"
+  },
   "author": "n0bisuke",
   "license": "MIT",
   "dependencies": {
